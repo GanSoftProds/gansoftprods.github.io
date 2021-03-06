@@ -3,7 +3,7 @@ particlesJS("particles-js",
 {
   "particles": {
     "number": {
-      "value": 52,
+      "value": 30,
       "density": {
         "enable": true,
         "value_area": 800
@@ -17,15 +17,8 @@ particlesJS("particles-js",
       "stroke": {
         "width": 0,
         "color": "#000"
-      },
-      "polygon": {
-        "nb_sides": 12
-      },
-      "image": {
-        "src": "img/github.svg",
-        "width": 100,
-        "height": 100
       }
+
     },
     "opacity": {
       "value": 0.2762016745712954,
@@ -56,7 +49,7 @@ particlesJS("particles-js",
     },
     "move": {
       "enable": true,
-      "speed": 8,
+      "speed": 4,
       "direction": "none",
       "random": false,
       "straight": false,
